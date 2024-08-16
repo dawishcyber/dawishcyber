@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dauda! <br/> <a href="https://www.linkedin.com/in/dauda-sahr-n-yumah-374363257r/">Cybersecurity Professional and Penetration Testing</a></h1>
 
-<h2>👨‍💻 Cybersecurity Professional and Penetration Testing:</h2>
+<h2>👨‍💻 Cybersecurity Professional and Penetration Testing Projects:</h2>
 
 - <b>Python Projects</b>
   - [Keylogger](https://github.com/dawishcyber/My-Hacking-Journey/tree/dddcf502a76339a08dce5b77495c86b7ef6762d3/Keylogger%20Project)
