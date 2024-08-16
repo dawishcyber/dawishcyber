@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dauda! <br/> <a href="https://www.linkedin.com/in/dauda-sahr-n-yumah-374363257r/">Cybersecurity Professional and Penetration Testing</a></h1>
+<h1>Hi, I'm Dauda! <br/> <a href="https://www.linkedin.com/in/dauda-sahr-n-yumah-374363257r/">Cybersecurity Professional and Penetration Tester</a></h1>
 
 <h2>👨‍💻 Cybersecurity Professional and Penetration Testing Projects:</h2>
 
