@@ -18,13 +18,13 @@
 <h2> 🤳 Certifications:</h2>
 
 <b></b>
-  - [Google Cybersecurity Professional Certificate ](https://www.credly.com/badges/44babdd2-f839-4316-a8ab-67a6874b0088/linked_in_profile) <h3> COSERA </h3>
+  - [Google Cybersecurity Professional Certificate ](https://www.credly.com/badges/44babdd2-f839-4316-a8ab-67a6874b0088/linked_in_profile) <h3> COURSERA </h3>
   - [Cyber Threat Management  ](https://www.credly.com/badges/b378a6a8-bdd8-4424-abc6-7f10dfd789c8/linked_in_profile) <h3> CISCO</h3>
   - [Cybersecurity for Everyone  ](https://www.coursera.org/account/accomplishments/records/UBPG5365N6CN) <h3> University of Maryland</h3>
   - [Cybersecurity Certification  ](https://www.credly.com/badges/f9919f2c-7079-4577-97e4-593a3640e4e9/linked_in_profile)  <h3> ISC2 </h3>
   - [Introduction to Cybersecurity ](https://www.credly.com/badges/068b665c-a591-4a86-a3eb-bf26b5f02163/linked_in_profile) <h3> CISCO </h3>
-  - [Wireshark ](https://www.udemy.com/certificate/UC-ba069e76-8c26-4b49-b638-7fdb77f41af1/) <h3> Udemy </h3>
-  - [Nmap ](https://www.udemy.com/certificate/UC-e87f9605-0f39-41fb-91c7-94d9f1fceea1/) <h3> Udemy </h3>
+  - [Wireshark ](https://www.udemy.com/certificate/UC-ba069e76-8c26-4b49-b638-7fdb77f41af1/) <h3> UDEMY </h3>
+  - [Nmap ](https://www.udemy.com/certificate/UC-e87f9605-0f39-41fb-91c7-94d9f1fceea1/) <h3> UDEMY </h3>
   - [Network Support and Maintenance ] <h3> College of Digital Excellence (CODE) </h3>
   - [CCTV Installation & Maintenance ] <h3> College of Digital Excellence (CODE) </h3> 
   
