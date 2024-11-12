@@ -3,13 +3,13 @@
 <h2>👨‍💻 Cybersecurity Professional and Penetration Testing Projects:</h2>
 
 - <b>Python Projects</b>
-  - [Keylogger](https://github.com/dawishcyber/My-Hacking-Journey/tree/dddcf502a76339a08dce5b77495c86b7ef6762d3/Keylogger%20Project)
+  - [Port Scanner](https://github.com/dawishcyber/Port-Scanner-Project/tree/main)
   - [Password Generator](https://github.com/dawishcyber/Password-Generator-Project)
 - <b>Pentesting</b>
-  - [Metasploitable 2 ](https://github.com/dawishcyber/My-Hacking-Journey/tree/dddcf502a76339a08dce5b77495c86b7ef6762d3/Metaslploitable%202%20Exploits)
+  - 
 
 <h2> 🤳 Experience:</h2>
-- IT Audit Intern  (MOORE SIERRA LEONE)
+- IT Intern  (MOORE SIERRA LEONE)
 
 <h2> 🤳 Education:</h2>
 - BSc Honourse in Banking and Finance <br>
