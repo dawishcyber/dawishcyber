@@ -4,7 +4,7 @@
 
 - <b>Python Projects</b>
   - [Keylogger](https://github.com/dawishcyber/My-Hacking-Journey/tree/dddcf502a76339a08dce5b77495c86b7ef6762d3/Keylogger%20Project)
-  - [Password Generator](https://github.com/dawishcyber/My-Hacking-Journey/tree/dddcf502a76339a08dce5b77495c86b7ef6762d3/Password%20Generator%20Project)
+  - [Password Generator](https://github.com/dawishcyber/Password-Generator-Project)
 - <b>Pentesting</b>
   - [Metasploitable 2 ](https://github.com/dawishcyber/My-Hacking-Journey/tree/dddcf502a76339a08dce5b77495c86b7ef6762d3/Metaslploitable%202%20Exploits)
 
