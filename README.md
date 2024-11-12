@@ -9,7 +9,7 @@
   - 
 
 <h2> 🤳 Experience:</h2>
-- IT Intern  (MOORE SIERRA LEONE)
+- IT Intern  (MOORE SIERRA LEONE) 2024.
 
 <h2> 🤳 Education:</h2>
 - BSc Honourse in Banking and Finance <br>
@@ -23,19 +23,26 @@
   - [Cybersecurity for Everyone  ](https://www.coursera.org/account/accomplishments/records/UBPG5365N6CN) <h3> University of Maryland</h3>
   - [Cybersecurity Certification  ](https://www.credly.com/badges/f9919f2c-7079-4577-97e4-593a3640e4e9/linked_in_profile)  <h3> ISC2 </h3>
   - [Introduction to Cybersecurity ](https://www.credly.com/badges/068b665c-a591-4a86-a3eb-bf26b5f02163/linked_in_profile) <h3> CISCO </h3>
+  - [Network Support and Maintenance ] <h3> College of Digital Excellence (CODE) </h3>
+  - [Practical Helpdesk ](https://academy.tcm-sec.com/courses/2537874/certificate) <h3> TCM Security </h3>
+  - [Programming 100 Foundamentals (Python) ]( https://academy.tcm-sec.com/courses/2635065/certificate) <h3> TCM Security </h3>
+  - [Linux 100 Fundamentals: ](https://academy.tcm-sec.com/courses/2631779/certificate) <h3> TCM Security </h3>
   - [Wireshark ](https://www.udemy.com/certificate/UC-ba069e76-8c26-4b49-b638-7fdb77f41af1/) <h3> UDEMY </h3>
   - [Nmap ](https://www.udemy.com/certificate/UC-e87f9605-0f39-41fb-91c7-94d9f1fceea1/) <h3> UDEMY </h3>
-  - [Network Support and Maintenance ] <h3> College of Digital Excellence (CODE) </h3>
-  - [CCTV Installation & Maintenance ] <h3> College of Digital Excellence (CODE) </h3> 
   
+  <h2> 🤳 Tools:</h2>
+      <h3> Kali Linux </h3>      
+      <h3> Nmap </h3>      
+      <h3> Python </h3>
+      <h3> Wireshark </h3>
+
+      
+  <h2> 🤳 Connect with me:</h2>
   
-
-
-<h2> 🤳 Connect with me:</h2>
-
-- [Twiter ](https://x.com/DaudaNyuma87525)
-- [Linkedin](linkedin.com/in/dauda-sahr-n-yumah-374363257)
+  - [Twiter](https://x.com/DaudaNyuma87525) 
   
+  - [Linkedin](https://linkedin.com/in/dauda-sahr-n-yumah-374363257)
+
 
 <!--
 **dawishcyber/dawishcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
