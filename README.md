@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Professional and Penetration Testing Projects:</h2>
 
-- <b>Python Projects</b>
+- <b><h2>Projects:</h2></b>
   - [Port Scanner](https://github.com/dawishcyber/Port-Scanner-Project/tree/main)
   - [Password Generator](https://github.com/dawishcyber/Password-Generator-Project)
   - [Active Directory](https://github.com/dawishcyber/Active-Directory-Project)
-- <b>Pentesting</b>
-  - 
+  
 
 <h2> 🤳 Experience:</h2>
 - IT Intern  (MOORE SIERRA LEONE) 2024.
