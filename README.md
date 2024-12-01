@@ -5,6 +5,7 @@
 - <b>Python Projects</b>
   - [Port Scanner](https://github.com/dawishcyber/Port-Scanner-Project/tree/main)
   - [Password Generator](https://github.com/dawishcyber/Password-Generator-Project)
+  - [Active Directory](https://github.com/dawishcyber/Active-Directory-Project)
 - <b>Pentesting</b>
   - 
 
